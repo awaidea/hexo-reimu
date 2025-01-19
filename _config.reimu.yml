@@ -18,7 +18,7 @@ menu:
     url: /friend
     icon:
 
-banner: "/images/banner.webp" # which means themes/reimu/source/images/banner.webp
+banner: "https://s2.loli.net/2025/01/19/hsteJXlDaCp7xNF.png" # which means themes/reimu/source/images/banner.webp
 # You can also write it in the form of the following url
 # banner: "https://example.com"
 
@@ -33,7 +33,7 @@ banner_srcset:
     - src: "/images/banner.webp"
       media: "(min-width: 800px)"
 
-favicon: "/images/favicon.ico" # which means themes/reimu/source/images/favicon.ico
+favicon: "https://s2.loli.net/2025/01/19/hsteJXlDaCp7xNF.png" # which means themes/reimu/source/images/favicon.ico
 # You can also write it in the form of the following url
 # favicon: "https://example.com"
 
